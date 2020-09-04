@@ -2,6 +2,17 @@
 
 This is a curated list of privacy-friendly analytics solutions as alternatives to Google Analytics. For contributions please check [this](CONTRIBUTIONS.md).
 
+## Sponsor
+
+This list is sponsored by:
+
+<a href="https://flatga.io" target="_blank"><img src="https://raw.githubusercontent.com/spekulatius/awesome-privacy-friendly-web-analytics/master/images/flatga.png" height="100px"></a>
+
+Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
+
+
+## List of Privacy-focused Web-Analytics
+
 |Service|Type|Open-Source|Features|Pricing|Integrations|
 |---|---|---|---|---|---|
 |[Fathom](https://usefathom.com/)<br>([Demo](https://app.usefathom.com/share/sqqvo/chimp+essentials), [Privacy Policy](https://usefathom.com/privacy))|Commerical|[GitHub](https://github.com/usefathom/fathom)|Unlimited websites and email reports. GDPR compliant (no cookie consent banner required).|From $14/month for 100k views.|[WordPress](https://github.com/usefathom/wordpress-plugin)|
