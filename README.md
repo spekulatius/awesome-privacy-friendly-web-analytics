@@ -11,7 +11,7 @@ This list is sponsored by:
 Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
 
 
-## List of Privacy-focused Web-Analytics
+## List of Privacy-Focused Web-Analytics
 
 |Service|Type|Open-Source|Features|Pricing|Integrations|
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@ Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
 |[Umami](https://umami.is)<br>([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com))|Self-Hosted|[GitHub](https://github.com/mikecao/umami)|Compliant with GDPR, CCPA, and PECR. Consent-free solution|Cost depends on hosting. Cheapest VPS hosting start at a few Euro/dollars per month. For example, $5 per month on [Digital Ocean](https://peterthaleikis.com/digitalocean).|[VuePress](https://github.com/spekulatius/vuepress-plugin-umami)|
 |[GoatCounter](https://www.goatcounter.com)<br>([Demo](https://stats.arp242.net/), [Privacy Policy](https://www.goatcounter.com/privacy))|Commerical|[GitHub](https://github.com/zgoat/goatcounter)|Unlimited websites.|Free for non-commerical use (up to 100k views), business plans from €5/month for 100k views.|[A few](https://www.goatcounter.com/code)|
 |[Simple Analytics](https://simpleanalytics.com/)<br>([Demo](https://simpleanalytics.com/simpleanalytics.com), [Privacy Policy](https://simpleanalytics.com/privacy))|Commerical|Not open-source|Unlimited websites. Servers in the Netherlands.|From $19/month for 100k views.|[Various](https://github.com/simpleanalytics/)|
+|[Ackeee](https://ackee.electerious.com/)<br>([Demo](https://demo.ackee.electerious.com/))|Self-Hosted|[GitHub](https://github.com/electerious/Ackee)|No cookies. GDPR, CCPA, and PECR compliant.|Cost depends on hosting.|[A few](https://github.com/electerious/Ackee#related)|
 
 ## Notes
 
