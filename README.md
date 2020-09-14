@@ -26,4 +26,4 @@ Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
 
 ## Notes
 
-Please note: The information here is collected to the best knowledge and might be out-of-date or incorrect. Always make conduct your own research. If you find any errors feel free to submit a PR.
+Please note: The information here is collected to the best knowledge and might be out-of-date or incorrect. Always conduct your own research. If you find any errors feel free to submit a PR.
