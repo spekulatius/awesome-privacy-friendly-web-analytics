@@ -23,6 +23,7 @@ Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
 |[Plausible](https://plausible.io/)<br>([Demo](https://plausible.io/plausible.io), [Privacy Policy](https://plausible.io/privacy))|Commerical or Self-Hosted|[GitHub](https://github.com/plausible/analytics)|Unlimited websites. Hosted in the EU. GDPR, CCPA, and PECR compliant.|From $4/month (annual plan) for 10k views.|[Community](https://docs.plausible.io/community-integrations)|
 |[Fathom](https://usefathom.com/)<br>([Demo](https://app.usefathom.com/share/sqqvo/chimp+essentials), [Privacy Policy](https://usefathom.com/privacy))|Commerical|[GitHub](https://github.com/usefathom/fathom)|Unlimited websites and email reports. GDPR compliant (no cookie consent banner required).|From $14/month for 100k views.|[WordPress](https://github.com/usefathom/wordpress-plugin)|
 |[Simple Analytics](https://simpleanalytics.com/)<br>([Demo](https://simpleanalytics.com/simpleanalytics.com), [Privacy Policy](https://simpleanalytics.com/privacy))|Commerical|Not open-source|Unlimited websites. Servers in the Netherlands.|From $19/month for 100k views.|[Various](https://github.com/simpleanalytics/)|
+|[Apstal](https://apstal.com)|Commercial|Not open-source|AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant.|Free tier: 10K events/month.|—|
 
 
 ## Notes
