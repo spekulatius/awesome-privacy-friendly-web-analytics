@@ -23,6 +23,7 @@ Want to sponsor this project? [Contact me](https://peterthaleikis.com/contact).
 |[Plausible](https://plausible.io/)<br>([Demo](https://plausible.io/plausible.io), [Privacy Policy](https://plausible.io/privacy))|Commerical or Self-Hosted|[GitHub](https://github.com/plausible/analytics)|Unlimited websites. Hosted in the EU. GDPR, CCPA, and PECR compliant.|From $4/month (annual plan) for 10k views.|[Community](https://docs.plausible.io/community-integrations)|
 |[Fathom](https://usefathom.com/)<br>([Privacy Policy](https://usefathom.com/privacy))|Commerical|[GitHub](https://github.com/usefathom/fathom)|Unlimited websites and email reports. GDPR compliant (no cookie consent banner required).|From $14/month for 100k views.|[WordPress](https://github.com/usefathom/wordpress-plugin)|
 |[Simple Analytics](https://simpleanalytics.com/)<br>([Demo](https://simpleanalytics.com/simpleanalytics.com), [Privacy Policy](https://simpleanalytics.com/privacy))|Commerical|Not open-source|Unlimited websites. Servers in the Netherlands.|From $19/month for 100k views.|[Various](https://github.com/simpleanalytics/)|
+|[Moxel](https://www.getmoxel.com/)<br>([Privacy Policy](https://www.getmoxel.com/privacy))|Commerical|Not open-source|No cookies, nothing stored in the visitor's browser, IP addresses never stored. Shows which form field or checkout step loses visitors.|30 days free, then from $27/month for 100k events.|HTML, React, Next.js, WordPress, Shopify|
 
 
 ## Notes
